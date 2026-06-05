@@ -1,0 +1,22 @@
+CUSTOMER JOURNEY INTELLIGENCE & ATTRIBUTION ENGINE - KEY INSIGHTS
+
+1. Funnel Drop-Off Analysis
+A significant percentage of users drop between product view and add-to-cart stage, indicating friction in purchase intent or product attractiveness.
+
+2. Channel Performance
+Paid and organic traffic channels show different conversion behaviors. Some channels bring high traffic but low purchases, while others generate fewer but higher-quality users.
+
+3. Customer Segmentation
+Returning users consistently show higher purchase conversion compared to new users, highlighting the importance of retention strategies.
+
+4. Product-Level Performance
+Certain product categories dominate purchase activity, helping identify high-performing inventory and marketing priorities.
+
+5. Attribution Insights
+First-touch attribution identifies which channels bring users into the ecosystem, while last-touch attribution highlights channels that close conversions.
+
+6. Marketing Optimization Opportunity
+Channels with low conversion but high traffic volume may require campaign optimization, landing page improvements, or audience targeting refinement.
+
+7. Data-Driven Decision Making
+The project demonstrates how behavioral event data can be transformed into business intelligence for marketing, customer experience, and conversion optimization.
